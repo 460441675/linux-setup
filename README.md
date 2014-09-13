@@ -1,6 +1,6 @@
 # Linux Mint 17 Setup
 
-1. 安装Chrome
+1. 安装Chrome浏览器
 2. 安装Skype
 
   ```
@@ -55,7 +55,8 @@
   ```
   source ~/.nvm/nvm.sh
   ```
-14. 安装文泉驿微米黑和文泉驿正黑字体解决界面中文缺失问题
+14. 使用NVM安装NodeJS
+15. 安装文泉驿微米黑和文泉驿正黑字体解决界面中文缺失问题
 
   ```
   sudo apt-get install fonts-wqy-microhei fonts-wqy-zenhei
