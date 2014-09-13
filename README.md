@@ -1,6 +1,7 @@
-linuxmint-setup
+Linux Mint 17 Setup
 ===============
 
+```
 Chrome
 
 sudo apt-get install skype
@@ -45,3 +46,4 @@ add this code to ~/.bashrc:
 source ~/.nvm/nvm.sh
 
 sudo apt-get install fonts-wqy-microhei fonts-wqy-zenhei
+```
