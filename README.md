@@ -21,7 +21,7 @@
 
   ```
   sudo apt-get update
-  sudo apt-get install git atom zeal oracle-java8-installer
+  sudo apt-get install curl git atom zeal oracle-java8-installer
   sudo apt-get remove default-jre openjdk-7-jre
   ```
 8. 配置Git全局设置参数
