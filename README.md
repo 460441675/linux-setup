@@ -2,7 +2,7 @@
 
 1. 将软件源切换至国内服务器（推荐中国科技大学服务器USTC）
 2. 更新系统（选择并应用全部更新）
-3. 将鼠标和触摸板设置设置为最适合触摸板工作的方式（双指触摸、拖拽和滚动）
+3. 将鼠标和触摸板设置设置为最适合触摸板工作的方式（双指触摸、拖拽和滚动、输入时禁用触摸板等）
 4. 安装Chrome浏览器
 5. 安装Skype
 
@@ -22,7 +22,7 @@
   ```
   sudo apt-get update
   sudo apt-get install curl git atom zeal oracle-java8-installer
-  sudo apt-get remove default-jre openjdk-7-jre
+  sudo apt-get remove openjdk*
   ```
 8. 配置Git全局设置参数
 
