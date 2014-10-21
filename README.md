@@ -4,7 +4,7 @@
 
 ### 版本选择
 
-- 电脑内存小于4GB，请选择[32位版本](http://www.linuxmint.com/edition.php?id=157)
+- 电脑内存小于4GB（建议至少应达到2GB），请选择[32位版本](http://www.linuxmint.com/edition.php?id=157)
 - 电脑内存大于等于4GB，请选择[64位版本](http://www.linuxmint.com/edition.php?id=158)
 
 ## 配置
