@@ -43,7 +43,7 @@
   sudo add-apt-repository ppa:webupd8team/java
   sudo add-apt-repository ppa:jerzy-kozera/zeal-ppa
   ```
-10. 更新软件包数据并安装所需要使用的工具
+10. 更新软件包数据并安装所需要使用的工具（cURL、Git、Atom、[Zeal](http://zealdocs.org)、Oracle JDK 8）
 
   ```
   sudo apt-get update
@@ -55,8 +55,8 @@
   ```
   apm install linter linter-jshint editorconfig atom-beautify
   ```
-12. 安装 IntelliJ IDEA 编辑器
-13. 安装 IntelliJ IDEA 编辑器插件
+12. 安装 [IntelliJ IDEA Ultimate Edition](https://www.jetbrains.com/idea/download/) 编辑器
+13. 安装 IntelliJ IDEA Ultimate Edition 编辑器插件
   - .gitignore support
   - EditorConfig
   - NodeJS
