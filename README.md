@@ -29,7 +29,7 @@
   sudo apt-get install fcitx fcitx-bin fcitx-config-common fcitx-config-gtk fcitx-data fcitx-frontend-all fcitx-frontend-gtk2:amd64 fcitx-frontend-gtk3:amd64 fcitx-frontend-qt4:amd64 fcitx-libs:amd64 fcitx-libs-gclient:amd64 fcitx-libs-qt:amd64 fcitx-module-dbus fcitx-module-kimpanel fcitx-module-lua fcitx-module-x11 fcitx-modules fcitx-ui-classic
   ```
 6. 安装搜狗输入法
-7. 安装Chrome浏览器
+7. 安装[Chrome浏览器](https://www.google.com/intl/en/chrome/browser/?platform=linux)
 8. 安装Skype
 
   ```
