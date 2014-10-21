@@ -7,6 +7,11 @@
 - 电脑内存小于4GB（建议至少应达到2GB），请选择[32位版本](http://www.linuxmint.com/edition.php?id=157)
 - 电脑内存大于等于4GB，请选择[64位版本](http://www.linuxmint.com/edition.php?id=158)
 
+### 制作USB启动盘
+
+- 准备一个容量大于4GB的U盘（请提前将U盘中内容备份，然后使用FAT32格式格式化该U盘）；
+- 在Windows操作系统下使用 [Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) 选择下载的 Linux Mint 安装镜像（ISO）文件并选择U盘所在盘符制作USB启动盘。
+
 ## 配置
 
 **（安装有独立安装包的软件时，请根据已安装操作系统选择32位或64位版本）**
