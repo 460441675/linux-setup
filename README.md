@@ -6,6 +6,7 @@
 
 - 电脑内存小于4GB（建议至少应达到2GB），请选择[32位版本](http://www.linuxmint.com/edition.php?id=157)
 - 电脑内存大于等于4GB，请选择[64位版本](http://www.linuxmint.com/edition.php?id=158)
+- 为了学习质量和便于适应英文工作环境，请在安装时务必选择英文（美国）版本。
 
 ### 制作USB启动盘
 
