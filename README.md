@@ -62,9 +62,7 @@
   - NodeJS
   - AngularJS
   - Karma
-14. 安装NVM
-
-  https://github.com/creationix/nvm
+14. 安装[Node Version Manager (NVM)](https://github.com/creationix/nvm#install-script)
 15. 在home目录下创建 ```.bashrc``` 文件并添加如下内容
 
   ```
