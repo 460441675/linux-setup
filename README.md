@@ -47,12 +47,16 @@
   - NodeJS
   - AngularJS
   - Karma
-11. 安装搜狗输入法依赖包（64位）
+11. 安装搜狗输入法依赖包（32位）
+  ```
+  sudo apt-get install fcitx fcitx-bin fcitx-config-common fcitx-config-gtk fcitx-data fcitx-frontend-all fcitx-frontend-gtk2 fcitx-frontend-gtk3 fcitx-frontend-qt4 fcitx-libs fcitx-libs-gclient fcitx-libs-qt fcitx-module-dbus fcitx-module-kimpanel fcitx-module-lua fcitx-module-x11 fcitx-modules fcitx-ui-classic
+  ```
+  安装搜狗输入法依赖包（64位）
 
   ```
   sudo apt-get install fcitx fcitx-bin fcitx-config-common fcitx-config-gtk fcitx-data fcitx-frontend-all fcitx-frontend-gtk2:amd64 fcitx-frontend-gtk3:amd64 fcitx-frontend-qt4:amd64 fcitx-libs:amd64 fcitx-libs-gclient:amd64 fcitx-libs-qt:amd64 fcitx-module-dbus fcitx-module-kimpanel fcitx-module-lua fcitx-module-x11 fcitx-modules fcitx-ui-classic
   ```
-12. 安装搜狗输入法（64位）
+12. 安装搜狗输入法
 13. 安装NVM
 
   https://github.com/creationix/nvm
