@@ -4,8 +4,7 @@
 
 ### 版本选择
 
-- 电脑内存小于4GB（建议至少应达到2GB），请选择[32位版本](http://www.linuxmint.com/edition.php?id=157)
-- 电脑内存大于等于4GB，请选择[64位版本](http://www.linuxmint.com/edition.php?id=158)
+- 电脑内存大于等于4GB，请选择使用[64位版本](http://www.linuxmint.com/edition.php?id=158)，如电脑内存小于4GB，也推荐使用64位版本而不是32位版本，因为64位版本稳定性和在后面学习的过程中遇到的问题最少，另外现在的内存条也很便宜，所以将内存扩展到4GB以上才是最关键的解决办法。
 - 为了学习质量和便于适应英文工作环境，请在安装时务必选择英文（美国）版本。
 
 ### 制作USB启动盘
@@ -42,11 +41,7 @@
   ```
   sudo apt-get install fonts-wqy-microhei fonts-wqy-zenhei
   ```
-5. 安装搜狗输入法依赖包（32位）
-  ```
-  sudo apt-get install fcitx fcitx-bin fcitx-config-common fcitx-config-gtk fcitx-data fcitx-frontend-all fcitx-frontend-gtk2 fcitx-frontend-gtk3 fcitx-frontend-qt4 fcitx-libs fcitx-libs-gclient fcitx-libs-qt fcitx-module-dbus fcitx-module-kimpanel fcitx-module-lua fcitx-module-x11 fcitx-modules fcitx-ui-classic
-  ```
-  安装搜狗输入法依赖包（64位）
+5. 安装搜狗输入法依赖包
 
   ```
   sudo apt-get install fcitx fcitx-bin fcitx-config-common fcitx-config-gtk fcitx-data fcitx-frontend-all fcitx-frontend-gtk2:amd64 fcitx-frontend-gtk3:amd64 fcitx-frontend-qt4:amd64 fcitx-libs:amd64 fcitx-libs-gclient:amd64 fcitx-libs-qt:amd64 fcitx-module-dbus fcitx-module-kimpanel fcitx-module-lua fcitx-module-x11 fcitx-modules fcitx-ui-classic
@@ -81,7 +76,6 @@
 12. 安装 [IntelliJ IDEA Ultimate Edition](https://www.jetbrains.com/idea/download/) 编辑器
 13. 安装 IntelliJ IDEA Ultimate Edition 编辑器插件
   - .gitignore support
-  - EditorConfig
   - NodeJS
   - AngularJS
   - Karma
