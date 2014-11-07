@@ -56,7 +56,7 @@
 9. 安装[uGet](http://ugetdm.com)
   
   ```
-  sudo apt-get aria2 uget
+  sudo apt-get install aria2 uget
   ```
 9. 添加所需要使用的工具的第三方PPA源
 
