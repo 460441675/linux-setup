@@ -26,7 +26,7 @@
 #### 双系统安装
 
 1. 在Windows操作系统下，使用磁盘工具（推荐使用[EaseUS Partition Master Free](http://www.partition-tool.com/personal.htm)，安装时请仔细看清不要安装任何其捆绑的垃圾软件），在现有硬盘上划分出一个主分区（建议不要小于20GB，推荐60GB）和一个逻辑分区（与电脑内存大小一致）;
-2. 使用 [EasyBCD](http://neosmart.net/EasyBCD/) 新建一个名为```Linux Mint```的GRUB2引导项目，并将其位置指定在刚刚新划分出的主分区上；
+2. 使用 [EasyBCD](http://neosmart.net/EasyBCD/) 新建一个名为```Ubuntu```的GRUB2引导项目，并将其位置指定在刚刚新划分出的主分区上；
 3. 使用制作好的USB启动盘引导计算机，在安装向导中选择手动硬盘划分，选择新划分出的主分区，选择格式化为Ext4格式，并将```/```根目录指定到该分区上；
 4. 选择新划分出的逻辑分区，并制定该分区为Swap分区；
 5. 将引导分区盘符指定为新划分出的主分区（**这一步非常重要，切记！**）；
