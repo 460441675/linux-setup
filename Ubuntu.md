@@ -1,10 +1,10 @@
-# Ubuntu 14.10 Setup
+# Ubuntu 14.04 Setup
 
 ## 安装
 
 ### 下载地址
 
-- [Ubuntu 14.10](http://www.ubuntu.com/download/desktop/thank-you/?version=14.10&architecture=amd64)
+- [Ubuntu 14.04.1 LTS](http://www.ubuntu.com/download/desktop/thank-you?country=CN&version=14.04.1&architecture=amd64)
 
 ### 语言选择
 
