@@ -39,9 +39,9 @@
 1. 将软件源切换至国内服务器（推荐中国科技大学服务器USTC）
 2. 在 Software & Updates 的 Other Software 选项卡中勾选 Canonical Partners 源
 2. 使用 Software Updater 更新系统（选择并应用全部更新）
-3. 将鼠标和触摸板设置为最适合触摸板工作的方式（双指触摸、拖拽和滚动、输入时禁用触摸板等）
-4. 在语言设置中，根据系统提示安装缺失的语言文件。
-6. 在系统自带的 Text Entry 设置中添加 Pinyin 输入法，并且在输入法设置中关闭 Correct pinyin 功能，然后注销当前用户并重新登录。
+3. 在 Mouse & Touchpad zhong 将鼠标和触摸板设置为最适合自己使用习惯的选项
+4. 在 Language Support 中，根据系统提示安装缺失的语言文件。
+6. 在 Text Entry 中添加 Pinyin 输入法，并且在输入法设置中关闭 Correct pinyin 功能，然后注销当前用户并重新登录。
 7. 安装[Chrome浏览器](https://www.google.com/intl/en/chrome/browser/?platform=linux)
 8. 安装 Flash 插件
 
