@@ -44,12 +44,12 @@
   ```
   sudo apt-get install fonts-wqy-microhei fonts-wqy-zenhei
   ```
-5. 安装搜狗输入法依赖包
+5. 安装中文输入法
 
   ```
-  sudo apt-get install fcitx fcitx-bin fcitx-config-common fcitx-config-gtk fcitx-data fcitx-frontend-all fcitx-frontend-gtk2:amd64 fcitx-frontend-gtk3:amd64 fcitx-frontend-qt4:amd64 fcitx-libs:amd64 fcitx-libs-gclient:amd64 fcitx-libs-qt:amd64 fcitx-module-dbus fcitx-module-kimpanel fcitx-module-lua fcitx-module-x11 fcitx-modules fcitx-ui-classic
+  sudo apt-get install ibus ibus-libpinyin
   ```
-6. 安装[搜狗输入法](http://pinyin.sogou.com/linux/?r=pinyin)
+  注销当前用户并重新登录，在 Keyboard Input Methods 中添加 Intelligent Pinyin 输入法，并且在输入法设置中关闭 Correct pinyin 功能。
 7. 安装[Chrome浏览器](https://www.google.com/intl/en/chrome/browser/?platform=linux)
 8. 安装Skype
 
