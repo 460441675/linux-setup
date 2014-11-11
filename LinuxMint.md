@@ -74,7 +74,7 @@
 
   ```
   sudo apt-get update
-  sudo apt-get install curl git atom zeal openjdk-7-jdk oracle-java8-installer
+  sudo apt-get install curl git atom zeal oracle-java8-installer
   ```
 11. 安装Atom编辑器的扩展包
 
