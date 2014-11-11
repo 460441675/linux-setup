@@ -64,14 +64,13 @@
   ```
   sudo add-apt-repository ppa:git-core/ppa
   sudo add-apt-repository ppa:webupd8team/atom
-  sudo add-apt-repository ppa:webupd8team/java
   sudo add-apt-repository ppa:jerzy-kozera/zeal-ppa
   ```
-10. 更新软件包数据并安装所需要使用的工具（cURL、Git、Atom、[Zeal](http://zealdocs.org)、Oracle JDK 8）
+10. 更新软件包数据并安装所需要使用的工具（cURL、Git、Atom、[Zeal](http://zealdocs.org)、Open JDK 8）
 
   ```
   sudo apt-get update
-  sudo apt-get install curl git atom zeal openjdk-7-jdk oracle-java8-installer
+  sudo apt-get install curl git atom zeal openjdk-8-jdk
   ```
 11. 安装Atom编辑器的扩展包
 
