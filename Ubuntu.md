@@ -6,15 +6,6 @@
 
 - [Ubuntu 14.04.1 LTS](http://www.ubuntu.com/download/desktop/thank-you?country=CN&version=14.04.1&architecture=amd64)
 
-### 语言选择
-
-- 为了学习质量和便于适应英文工作环境，请在安装时务必选择英文（美国）版本。
-
-### 制作USB启动盘
-
-- 准备一个容量大于4GB的U盘（请提前将U盘中内容备份，然后使用FAT32格式格式化该U盘）；
-- 在Windows操作系统下使用 [Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) 选择下载的安装镜像（ISO）文件并选择U盘所在盘符制作USB启动盘。
-
 ### 安装
 
 - [基于Ubuntu的Linux发行版安装方法](Install.md)
