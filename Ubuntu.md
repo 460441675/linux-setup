@@ -41,7 +41,12 @@
 2. 使用 Software Updater 更新系统（选择并应用全部更新）
 3. 在 Mouse & Touchpad 中，将鼠标和触摸板设置为最适合自己使用习惯的选项
 4. 在 Language Support 中，根据系统提示安装缺失的语言文件。
-6. 在 Text Entry 中添加 Pinyin 输入法，并且在输入法设置中关闭 Correct pinyin 功能，然后注销当前用户并重新登录。
+6. 安装中文输入法
+
+  ```
+  sudo apt-get install ibus-libpinyin
+  ```
+  注销当前用户并重新登录，在 Text Entry 中添加 Intelligent Pinyin 输入法，并且在输入法设置中关闭 Correct pinyin 功能。
 7. 安装[Chrome浏览器](https://www.google.com/intl/en/chrome/browser/?platform=linux)
 8. 安装 Flash 插件
 
