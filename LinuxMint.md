@@ -2,15 +2,18 @@
 
 ## 安装
 
-### 版本选择
+### 下载地址
 
-- 电脑内存大于等于4GB，请选择使用[64位版本](http://www.linuxmint.com/edition.php?id=158)，如电脑内存小于4GB，也推荐使用64位版本而不是32位版本，因为64位版本稳定性和在后面学习的过程中遇到的问题最少，另外现在的内存条也很便宜，所以将内存扩展到4GB以上才是最关键的解决办法。
+- [Linux Mint 17 "Qiana" - Cinnamon (64-bit)](http://www.linuxmint.com/edition.php?id=158)
+
+### 语言选择
+
 - 为了学习质量和便于适应英文工作环境，请在安装时务必选择英文（美国）版本。
 
 ### 制作USB启动盘
 
 - 准备一个容量大于4GB的U盘（请提前将U盘中内容备份，然后使用FAT32格式格式化该U盘）；
-- 在Windows操作系统下使用 [Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) 选择下载的 Linux Mint 安装镜像（ISO）文件并选择U盘所在盘符制作USB启动盘。
+- 在Windows操作系统下使用 [Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) 选择下载的安装镜像（ISO）文件并选择U盘所在盘符制作USB启动盘。
 
 ### 安装
 
@@ -31,7 +34,7 @@
 
 ## 配置
 
-**（安装有独立安装包的软件时，请根据已安装操作系统选择32位或64位版本）**
+**（安装有独立安装包的软件时，请优选择64位版本）**
 
 1. 将软件源切换至国内服务器（推荐中国科技大学服务器USTC）
 2. 更新系统（选择并应用全部更新）
