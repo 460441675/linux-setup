@@ -43,6 +43,11 @@
 4. 在语言设置中，根据系统提示安装缺失的语言文件。
 6. 在系统自带的 Text Entry 设置中添加 Pinyin 输入法，并且在输入法设置中关闭 Correct pinyin 功能，然后注销当前用户并重新登录。
 7. 安装[Chrome浏览器](https://www.google.com/intl/en/chrome/browser/?platform=linux)
+8. 安装 Flash 插件
+
+  ```
+  sudo apt-get install flashplugin-installer
+  ```
 8. 安装Skype
 
   ```
