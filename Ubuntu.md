@@ -47,7 +47,7 @@
   ```
   sudo apt-get install vlc
   ```
-0. 安装[SMPlayer[(http://smplayer.sourceforge.net)
+0. 安装[SMPlayer](http://smplayer.sourceforge.net)
 
   ```
   sudo add-apt-repository ppa:rvm/smplayer 
