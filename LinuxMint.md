@@ -24,6 +24,7 @@
   ```
   注销当前用户并重新登录，在 Keyboard Input Methods 中添加 Intelligent Pinyin 输入法，并且在输入法设置中关闭 Correct pinyin 功能。
 0. 安装[Chrome浏览器](https://www.google.com/intl/en/chrome/browser/?platform=linux)
+0. 安装[XMind](http://www.xmind.net/download/linux/)
 0. 安装Skype
 
   ```
