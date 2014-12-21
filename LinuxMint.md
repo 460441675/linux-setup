@@ -1,10 +1,10 @@
-# Linux Mint 17 Setup
+# Linux Mint 17.1 Setup
 
 ## 安装
 
 ### 下载地址
 
-- [Linux Mint 17 "Qiana" - Cinnamon (64-bit)](http://www.linuxmint.com/edition.php?id=158)
+- [Linux Mint 17.1 "Rebecca" - Cinnamon (64-bit)](http://www.linuxmint.com/edition.php?id=172)
 
 ### 安装
 
