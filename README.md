@@ -24,4 +24,4 @@
 由于Linux的各个发行版差异较大，经过反复测试和使用经验，推荐根据个人电脑实际表现测试安装以下两种Linux发行版，并选择性能及稳定性最好的一个使用：
 
 - [Ubuntu 14.04.1 LTS](Ubuntu.md)
-- [Linux Mint 17](LinuxMint.md)
+- [Linux Mint 17.1](LinuxMint.md)
